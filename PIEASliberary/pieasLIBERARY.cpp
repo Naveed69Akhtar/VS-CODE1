@@ -1,3 +1,6 @@
+
+// this c++ project of a mini liberary
+
 #include <iostream>
 #include <string>
 
