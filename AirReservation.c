@@ -1,3 +1,6 @@
+
+// this is air ticket reservation system
+
 #include <stdio.h>
 int main()
 {
@@ -7,7 +10,7 @@ int main()
     int fare = 0;
     int bs = 0, e = 0; // bs for bussiness class and e for economy class counter
 
-    // giving seat number
+    // giving seat numbersss
 
     for (i = 0; i < 10; i++)
     {
