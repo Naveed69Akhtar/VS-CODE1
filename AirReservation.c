@@ -1,5 +1,5 @@
 
-// this is air ticket reservation system
+// this is air ticket reservation system///
 
 #include <stdio.h>
 int main()
@@ -39,6 +39,7 @@ available:
             }
         }
         printf("\n");
+
     }
     printf("**********************************************************************\n");
 
@@ -46,7 +47,7 @@ available:
 
     printf("Enter seat Number you want to book\n");
     printf("1st and Last Row is Window seat\n");
-    printf("Seat 1 to 25 are Economy Class\nSeat 26 to 40 are Bussiness Class\n");
+    printf("Seat 1 to 25 are Economy  Class\nSeat 26 to 40 are Bussiness Class\n");
     printf("Enter 200 to exit\n");
     scanf("%d", &choice);
 
