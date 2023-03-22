@@ -107,7 +107,7 @@ int main()
                 else
                 {
                     cout << fptr->quantity << " Stock  Available\nTry Again\n";
-                    goto ss;
+                    goto ssss;
                 }
             }
             else if (fptr == NULL)
